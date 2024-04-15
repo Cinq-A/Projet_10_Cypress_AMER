@@ -36,7 +36,7 @@ Ce projet nécessite Docker pour être exécuté localement. Suivez les étapes 
 >- Si ce n'est pas le cas, vous pouvez le télécharger et l'installer depuis le site officiel de Node.js : [Télécharger Node.js](https://nodejs.org/)
 ---
 
-1. Clonez ce dépôt GitHub [PROJET_10_CYPRESS](https://github.com/PROJET_10_CYPRESS) sur votre machine locale.
+1. Clonez ce dépôt GitHub [PROJET_10_CYPRESS](https://github.com/Cinq-A/Projet_10_Cypress_AMER) sur votre machine locale.
 2. Ouvrez un terminal et déplacez-vous vers le répertoire du projet.
 
 3. Exécutez la commande suivante pour excecuter les tests sur le terminal et générer le rapport: 
