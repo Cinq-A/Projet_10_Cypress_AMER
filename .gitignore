@@ -1,0 +1,5 @@
+/node_modules
+cypress/2-advanced-examples/*
+cypress/1-getting-started/*
+cypress/screenshots/*
+cypress/fixtures/example.json
